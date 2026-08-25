@@ -5,7 +5,7 @@ export const personalInfo = {
   email: "shwetapawar7750@gmail.com",
   phone: "+91 8624087750",
   linkedin: "http://www.linkedin.com/in/shweta-pawar-635135420",
-  github: "#", // placeholder
+  github: "https://github.com/shwetapawar7750-create",
   resumeUrl: "#", // placeholder
   about: "An aspiring software developer pursuing a Bachelor of Technology in Artificial Intelligence & Data Science with practical experience in Artificial Intelligence, Software Development, and Full Stack Web Development. Completed internships in AI & LLM Post-Training and Software Development, with hands-on experience in developing AI-powered applications and hardware-integrated solutions. Passionate about building innovative software, solving real-world problems, and continuously learning emerging technologies.",
 };
